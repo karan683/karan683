@@ -1,20 +1,58 @@
-<h1 align="center">Hi 👋, I'm Karan sope</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi, I'm Karan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karan683&label=Profile%20views&color=0e75b6&style=flat" alt="karan683" /> </p>
+I'm passionate about Full Stack Development, AWS Cloud, and DevOps. I enjoy learning new technologies, building applications, automating workflows, and working with cloud infrastructure.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/karan1708sope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karan1708sope" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/karansope1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karansope1234" height="30" width="40" /></a>
-</p>
+## 💻 Technical Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+**Frontend Development**
+- HTML5
+- CSS3
+- JavaScript
+- React.js
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karan683&show_icons=true&locale=en&layout=compact" alt="karan683" /></p>
+**Backend Development**
+- Node.js
+- Express.js
+- REST APIs
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karan683&show_icons=true&locale=en" alt="karan683" /></p>
+**Cloud – AWS**
+- EC2
+- S3
+- VPC
+- IAM
+- ECR
+- EKS
+- DynamoDB
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karan683&" alt="karan683" /></p>
+**DevOps & CI/CD**
+- Docker
+- Kubernetes
+- Helm
+- Argo CD
+- Git & GitHub
+- GitHub Actions
+- CI/CD Automation
 
+## 📚 What I'm Learning
+
+- AWS Cloud Infrastructure
+- Kubernetes and Container Orchestration
+- CI/CD Pipeline Automation
+- GitOps with Argo CD
+- Cloud-Native Application Deployment
+
+## 🌱 My Interests
+
+- Full Stack Development
+- Cloud Computing
+- DevOps Engineering
+- Automation
+- Learning New Technologies
+
+## 🔗 Connect With Me
+
+- GitHub: [@karan683](https://github.com/karan683)
+
+---
+
+**Always learning. Always building. Always improving.**
